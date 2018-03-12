@@ -1,1 +1,1 @@
-Simple image viewing Example using Flexbox ccs
+Simple image viewing Example using Flexbox CSS
